@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>120.jpg</filename>
+	<path>D:\Memory_Demo\yolov5-master\img\120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>251</ymin>
+			<xmax>532</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

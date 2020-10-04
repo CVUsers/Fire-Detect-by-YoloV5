@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>320_01.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\320_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>27</ymin>
+			<xmax>323</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

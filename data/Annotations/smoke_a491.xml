@@ -1,0 +1,26 @@
+<annotation>
+	<folder>抽烟1</folder>
+	<filename>QJ6750298231.jpg</filename>
+	<path>D:\linhaihua3\Desktop\抽烟11\抽烟1\QJ6750298231.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>125</ymin>
+			<xmax>343</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

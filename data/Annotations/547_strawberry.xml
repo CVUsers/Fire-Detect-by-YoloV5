@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke1</folder>
+	<filename>547_strawberry.jpg</filename>
+	<path>F:\浏览器下载内容\smoke1\547_strawberry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>102</ymin>
+			<xmax>133</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>002135.jpg</filename>
+	<path>F:\浏览器下载内容\VOC2007\JPEGImages\002135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>791</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>517</ymin>
+			<xmax>516</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>抽烟</folder>
+	<filename>152.jpg</filename>
+	<path>D:\linhaihua3\Desktop\抽烟\152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>152</ymin>
+			<xmax>192</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

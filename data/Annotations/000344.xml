@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke0</folder>
+	<filename>000344.jpg</filename>
+	<path>C:\Users\ZHANGYANJUN0810\Desktop\smoke0\000344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>580</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>234</ymin>
+			<xmax>494</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

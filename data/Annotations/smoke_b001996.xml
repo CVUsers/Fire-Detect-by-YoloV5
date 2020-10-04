@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke(1600-2099)</folder>
+	<filename>001996.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\新建文件夹 (2)\smoke(1600-2099)\001996.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>845</width>
+		<height>691</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>380</ymin>
+			<xmax>778</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

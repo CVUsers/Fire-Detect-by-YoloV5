@@ -1,0 +1,26 @@
+<annotation>
+	<folder>抽烟1</folder>
+	<filename>u=3856811112,978982185&amp;fm=191&amp;app=48&amp;wm=1,17,90,45,20,7&amp;wmo=0,0&amp;n=0&amp;g=0n&amp;f=JPEG.jpg</filename>
+	<path>D:\linhaihua3\Desktop\抽烟11\抽烟1\u=3856811112,978982185&amp;fm=191&amp;app=48&amp;wm=1,17,90,45,20,7&amp;wmo=0,0&amp;n=0&amp;g=0n&amp;f=JPEG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>381</ymin>
+			<xmax>651</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

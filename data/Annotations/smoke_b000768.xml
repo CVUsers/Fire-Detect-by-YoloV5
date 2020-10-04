@@ -1,0 +1,38 @@
+<annotation>
+	<folder>smoke(500-999)</folder>
+	<filename>000768.jpg</filename>
+	<path>C:\Users\jauok\Documents\WeChat Files\wxid_lkl5s8wk0dw822\FileStorage\File\2020-07\smoke(500-999)\000768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>457</ymin>
+			<xmax>261</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>677</ymin>
+			<xmax>496</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>459_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\459_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>138</width>
+		<height>57</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>5</ymin>
+			<xmax>103</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+</annotation>

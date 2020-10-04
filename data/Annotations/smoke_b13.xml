@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>Images</folder>
+  <filename>(1029)</filename>
+  <path>C:\Users\Administrator\PycharmProjects\Images\(1029).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>726</xmin>
+      <ymin>363</ymin>
+      <xmax>888</xmax>
+      <ymax>436</ymax>
+    </bndbox>
+  </object>
+</annotation>

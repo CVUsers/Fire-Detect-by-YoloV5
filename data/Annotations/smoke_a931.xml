@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>302_02.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\302_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>103</width>
+		<height>107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>44</ymin>
+			<xmax>73</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

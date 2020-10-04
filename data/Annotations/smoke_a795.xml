@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>166_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\166_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>286</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>180</ymin>
+			<xmax>171</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

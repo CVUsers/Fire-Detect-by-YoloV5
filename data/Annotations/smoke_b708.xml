@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>pic</folder>
+  <filename>Img_460</filename>
+  <path>C:\Users\HYZ\Desktop\pic\Img_460.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>711</xmin>
+      <ymin>476</ymin>
+      <xmax>759</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+</annotation>

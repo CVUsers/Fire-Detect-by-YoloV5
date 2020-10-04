@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>165.jpg</filename>
+	<path>G:\inte++\data\2\165.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>139</ymin>
+			<xmax>56</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>pic</folder>
+  <filename>swap(462)</filename>
+  <path>C:\Users\HYZ\Desktop\pic\swap(462).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>275</width>
+    <height>183</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>55</ymin>
+      <xmax>173</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+</annotation>

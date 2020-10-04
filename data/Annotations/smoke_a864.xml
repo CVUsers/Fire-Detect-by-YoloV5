@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>235_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\235_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>56</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>36</ymin>
+			<xmax>23</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

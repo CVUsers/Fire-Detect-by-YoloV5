@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>smoke(0-499)</folder>
+	<filename>000410.jpg</filename>
+	<path>C:\Users\renbei\Documents\Tencent Files\1310293107\FileRecv\MobileFile\smoke(0-499)\smoke(0-499)\000410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0000410</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>108</ymin>
+			<xmax>365</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

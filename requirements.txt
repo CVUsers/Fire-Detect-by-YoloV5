@@ -1,0 +1,11 @@
+# pip install -U -r requirements.txt
+Cython
+numpy==1.17
+opencv-python==3.4.2.17
+torch>=1.4
+matplotlib
+pillow
+PyYAML>=5.3
+torchvision
+scipy
+tqdm

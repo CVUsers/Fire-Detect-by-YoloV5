@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>199_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\199_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>94</width>
+		<height>69</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>30</ymin>
+			<xmax>49</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>pic</folder>
+  <filename>Img_323</filename>
+  <path>C:\Users\HYZ\Desktop\pic\Img_323.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>967</width>
+    <height>871</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>383</ymin>
+      <xmax>880</xmax>
+      <ymax>542</ymax>
+    </bndbox>
+  </object>
+</annotation>

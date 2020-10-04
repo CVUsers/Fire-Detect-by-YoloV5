@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>145_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\145_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>119</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>50</ymin>
+			<xmax>111</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

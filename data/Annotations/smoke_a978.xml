@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>349_05.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\349_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>66</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>1</ymin>
+			<xmax>183</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>378_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\378_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>115</width>
+		<height>47</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>16</ymin>
+			<xmax>62</xmax>
+			<ymax>23</ymax>
+		</bndbox>
+	</object>
+</annotation>

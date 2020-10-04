@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>pic</folder>
+  <filename>59</filename>
+  <path>C:\Users\HYZ\Desktop\pic\59.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>401</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>244</xmin>
+      <ymin>184</ymin>
+      <xmax>330</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>

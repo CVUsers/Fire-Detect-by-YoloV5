@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>14.jpg</filename>
+	<path>C:\Users\acer\Desktop\1\14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>163</ymin>
+			<xmax>273</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

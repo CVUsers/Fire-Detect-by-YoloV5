@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke0</folder>
+	<filename>279_strawberry.jpg</filename>
+	<path>C:\Users\ZHANGYANJUN0810\Desktop\smoke0\279_strawberry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>85</ymin>
+			<xmax>218</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

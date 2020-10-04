@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke2</folder>
+	<filename>578_strawberry.jpg</filename>
+	<path>G:\inte++\data\smoke2\578_strawberry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3777</width>
+		<height>2833</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2609</xmin>
+			<ymin>669</ymin>
+			<xmax>2810</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke1</folder>
+	<filename>000357.jpg</filename>
+	<path>F:\浏览器下载内容\smoke1\000357.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>829</width>
+		<height>620</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>218</ymin>
+			<xmax>674</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

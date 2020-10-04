@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>007_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\007_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>57</ymin>
+			<xmax>289</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

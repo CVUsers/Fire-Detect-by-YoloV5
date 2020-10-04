@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>425_03.jpg</filename>
+	<path>C:\Users\靳凯旗\Desktop\data\images\images\425_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>136</width>
+		<height>85</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>43</ymin>
+			<xmax>108</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

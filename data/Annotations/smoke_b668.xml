@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>pic</folder>
+  <filename>Img_098</filename>
+  <path>C:\Users\HYZ\Desktop\pic\Img_098.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1088</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>862</xmin>
+      <ymin>398</ymin>
+      <xmax>910</xmax>
+      <ymax>510</ymax>
+    </bndbox>
+  </object>
+</annotation>

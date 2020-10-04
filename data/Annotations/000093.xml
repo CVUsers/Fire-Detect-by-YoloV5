@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000093.png</filename>
+	<path>D:/Memory_Demo/something_to_use/yolov5/data/images/000093.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>96</ymin>
+			<xmax>202</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
